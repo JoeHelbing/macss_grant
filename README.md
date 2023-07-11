@@ -8,3 +8,7 @@ If you have mamba installed on your machine, you can use the following bash scri
 ```
 $ bash install_env.sh
 ```
+
+## Aggregator and Grant Notes
+
+General notes on aggregator services and grants are included in the [research_notes.md](research_notes.md) file.
