@@ -6,9 +6,13 @@
 UChicago has a subscription to the system, so free. It's a general aggregator, so includes NSF, NIH, other gov grants and private grants. 
 
 - Deceptively specific search functionality, meaning it has many seach fields, boolean logic, dozens of subcategories, but they essentially don't work. You'll specify certain things and they don't come up and things that shouldn't come up do.
+  - Most of this issue has to do with checkbox based subcategories i.e. if you're searching for only USD/USA based grants, checking this does not actually remove all non USD/USA grants. You'll still get things from Israel in Sheckles for instance.
+  - I assume this issue has to with user uploading of grant information and their grant listing system. Either the RFP'er or Pivot is not filling out their forms correctly and the system is not using a text based classifier, probably just dropdown boxes where people are leaving defaults and pasting the text info into boxes.
 - You can setup a saved recurring search logic that will send any new grants as an email.
   - The saved search runs once weekly, Monday. Non-editable
   - The saved search goes to the registrant email. AKA your uchicago.edu address. Also non-editable.
+
+There is potential on this one if some textual based method is used to sort the grants in combination with their search filter as a loose pre-filter.
 
 [Grants.gov](https://www.grants.gov/)
 
