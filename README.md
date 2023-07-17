@@ -1,3 +1,6 @@
+# DEAD END
+The pivot aggregator has a login through the email page, so it isn't possible to use the link through the forwarded email. It will default to the login page instead, and that is not possible to bypass. I missed this when I was originally checking the email link to the grants as my laptop seems to have completed a shibboleth login without actually logging me into my account granting me access to the page without showing me as logged in on that page. 
+
 # MACSS Grant LLM Filter
 
 This project uses GPT4 to read though grant texts and filter out grants that do
