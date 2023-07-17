@@ -1,7 +1,7 @@
 # General Research Notes
 
 ## Aggregators
-[Pivot](https://pivot.proquest.com/dashboard)
+### [Pivot](https://pivot.proquest.com/dashboard)
 
 UChicago has a subscription to the system, so free. It's a general aggregator, so includes NSF, NIH, other gov grants and private grants. 
 
@@ -14,13 +14,17 @@ UChicago has a subscription to the system, so free. It's a general aggregator, s
 
 There is potential on this one if some textual based method is used to sort the grants in combination with their search filter as a loose pre-filter.
 
-[Grants.gov](https://www.grants.gov/)
+### [Grants.gov](https://www.grants.gov/)
 
 Grants.gov is the U.S. government's online portal that provides access to information about federal grant programs. It's managed by the Department of Health and Human Services and it's used by federal agencies to post discretionary funding opportunities and for grantees to find and apply to them.
 
 - Actually unusable. I was unable to test this aggregator because the registration process orphaned my useurname and wouldn't let me register a different account with same recovery phone number. I literally can't sign in to test it. 
 
-[GrantForward](https://www.grantforward.com/index)
+Does have a list of RSS feeds which might be useful though.
+
+[Grants.gov RSS](https://www.grants.gov/rss.html)
+
+### [GrantForward](https://www.grantforward.com/index)
 
 General purpose aggregator. UChicago does not have a contract and free trial registers for UChicago the organization. Also untestable.
 
@@ -32,9 +36,23 @@ Also non-transparent pricing.
 
 > Price is determined by your institution size-- in terms of both total population and annual research expenditures. Please contact support@grantforward.com for detailed subscription plans and pricing.
 
-[Foundation Directory Online](https://fconline.foundationcenter.org/)
+### [Foundation Directory Online](https://fconline.foundationcenter.org/)
 
 Grant aggregator focused on non-profits. No UChicago supscription, $1600 a year. No free trial.
 
-## Pivot System Grant Based Notes
+
+### [Instrumentl](https://www.instrumentl.com/projects/101583#/project-tracker)
+
+Opened a free trail. Grant aggregator. REALLY clean interface. $179 a month, basic. If just MACSS would think that, 3 users.
+
+Not a search based aggregator,  but select categories for a project then it suggest grants based on the category selections. Monday.com type of interface.
+
+## Grant Based Notes
+
+### Pulled from Instrumentl
+
+Instrument based grants. Grants to buy equipment. NSF, STEM
+[https://www.grants.gov/web/grants/view-opportunity.html?oppId=344610](https://www.grants.gov/web/grants/view-opportunity.html?oppId=344610)
+
+
 
